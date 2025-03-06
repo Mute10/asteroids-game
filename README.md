@@ -1,1 +1,1 @@
-# asteroids-game
+# pip install pygame
